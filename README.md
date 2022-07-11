@@ -1,4 +1,4 @@
-# Desafio de Testes Automatizados - Agibank
+# Desafio de Testes Automatizados
 
 Linguagem utilizada:
 - Java 1.8
