@@ -52,11 +52,11 @@ public class BuscarNoBlogStep {
     @Then("será exibido o artigo {string}")
     public void será_exibido_o_artigo(String string) {
         Assert.assertEquals(true,resultadoDaBuscaPage.encontrouArtigo(string));
-        //driver.quit();
+        driver.quit();
     }
 
     @Then("será exibida a Ferramenta de Busca")
     public void sera_exibida_a_ferramenta_de_busca() {
-        //driver.quit();
+        driver.quit();
     }
 }
