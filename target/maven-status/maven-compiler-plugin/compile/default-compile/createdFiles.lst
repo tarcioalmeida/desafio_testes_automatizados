@@ -1,0 +1,3 @@
+managers\PageObjectManager.class
+pageObjects\ResultadoDaBuscaPage.class
+pageObjects\HomePage.class
