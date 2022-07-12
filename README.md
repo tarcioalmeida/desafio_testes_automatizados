@@ -10,3 +10,6 @@ FerramentasFrameworks
 - Maven;
 
 Instruções de execução
+```
+Executar RunTest.java
+```
