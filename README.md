@@ -3,7 +3,7 @@
 Linguagem utilizada
 - Java 1.8
 
-FerramentasFrameworks
+Ferramentas/Frameworks
 - Selenium;
 - Cucumber;
 - JUnit;

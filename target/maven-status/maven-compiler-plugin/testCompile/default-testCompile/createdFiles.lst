@@ -1,0 +1,3 @@
+runners\RunTest.class
+stepDefinitions\AcionamentoDaLupaStep.class
+stepDefinitions\BuscaPorPalavraDeArtigoExistenteStep.class
